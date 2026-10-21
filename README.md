@@ -1,7 +1,7 @@
 # Deber-Arboles-EspinozaKerly
 
-**APE 3 · Estructura de Datos (Tercero, Ingeniería de Software)** — Catálogo de la Biblioteca FISEI con árbol general y ABB en Java.
-Autor: Espinoza Kerly 
+**Estructura de Datos (Tercero, Ingeniería de Software)** — Catálogo de la Biblioteca FISEI con árbol general y ABB en Java.
+Espinoza Kerly 
 
 ## 1. Problema
 
@@ -59,4 +59,4 @@ Resultado esperado: `41/41 pruebas OK`.
 
 ## 5. TRAZAS.md
 
-El archivo [`TRAZAS.md`](TRAZAS.md) contiene los códigos 68, 87 y 71, los diagramas del ABB, los recorridos, la traza y los casos de eliminación. Comprueba los pasos y las salidas antes de entregar.
+El archivo [`TRAZAS.md`](TRAZAS.md) contiene los códigos 68, 87 y 71, los diagramas del ABB, los recorridos, la traza y los casos de eliminación. 
